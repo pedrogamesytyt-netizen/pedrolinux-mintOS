@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=Modo Jogo
+Comment=Desempenho maximo e abre a Steam
+Exec=/usr/local/bin/modo-jogo
+Icon=applications-games
+Terminal=false
+Categories=Game;
